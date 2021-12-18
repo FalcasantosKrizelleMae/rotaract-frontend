@@ -1,6 +1,6 @@
 {
    "name": "rotaract-app",
-   "homepage":"https://rotaractzc.site/",
+   "homepage": "https://rotaractzc.site/",
    "version": "0.1.0",
    "private": true,
    "dependencies": {
